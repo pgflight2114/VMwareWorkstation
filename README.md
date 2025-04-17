@@ -10,10 +10,8 @@
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 
 # 最新版本直链
-**感谢由[@taozhiyu](https://github.com/taozhiyu)发现的最新版本直链**
-* Windows：https://www.vmware.com/go/getworkstation-win
-* Linux：https://www.vmware.com/go/getworkstation-linux
-
+原始Vmware官网已挂，已跳转博通官网
+博通官方链接（需注册登录）:https://support.broadcom.com/group/ecx/free-downloads
 <hr>
 
 # VMwareWorkstation 17
