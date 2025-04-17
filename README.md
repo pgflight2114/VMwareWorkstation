@@ -10,8 +10,8 @@
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 
 # 最新版本直链
-原始Vmware官网已挂，已跳转博通官网
-博通官方链接（需注册登录）:https://support.broadcom.com/group/ecx/free-downloads
+* Vmware官方渠道已挂，已跳转博通官网
+* 博通官方链接（需注册/登录）:https://support.broadcom.com/group/ecx/free-downloads
 <hr>
 
 # VMwareWorkstation 17
